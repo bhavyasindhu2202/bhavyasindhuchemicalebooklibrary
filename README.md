@@ -1,2 +1,3 @@
 # bhavyasindhuchemicalebooklibrary
-this is my first project on github
+# About my first project on GitHub
+
